@@ -2,12 +2,12 @@
 
 ## install python library <br>
 
-'''bash
+```bash
 $ pip install -r requirements.py
-'''
+```
 
 ## run <br>
 
-'''bash
+```bash
 $ python main.py
-'''
+```
